@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DemoETL", "DemoETL\DemoETL.dtproj", "{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DemoOLAP", "DemoOLAP\DemoOLAP.dwproj", "{BE93E834-E098-4DD1-9981-7D27E26BFED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}.Development|Default.ActiveCfg = Development
+		{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}.Development|Default.Build.0 = Development
+		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.ActiveCfg = Development
+		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.Build.0 = Development
+		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {568DD6AD-8AE2-4D20-89D5-E80A1EC9E9E5}
+	EndGlobalSection
+EndGlobal
