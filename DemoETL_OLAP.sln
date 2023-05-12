@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DemoETL", "DemoETL\DemoETL.dtproj", "{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}"
 EndProject
-Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DemoOLAP", "DemoOLAP\DemoOLAP.dwproj", "{BE93E834-E098-4DD1-9981-7D27E26BFED6}"
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DemoOLAP", "Demo_OLAP\DemoOLAP.dwproj", "{DE406A97-2EB0-4D03-A1BF-B30FAA641513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}.Development|Default.ActiveCfg = Development
 		{9099CCE7-C1AE-4C00-9B73-152AE57D65E4}.Development|Default.Build.0 = Development
-		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.ActiveCfg = Development
-		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.Build.0 = Development
-		{BE93E834-E098-4DD1-9981-7D27E26BFED6}.Development|Default.Deploy.0 = Development
+		{DE406A97-2EB0-4D03-A1BF-B30FAA641513}.Development|Default.ActiveCfg = Development
+		{DE406A97-2EB0-4D03-A1BF-B30FAA641513}.Development|Default.Build.0 = Development
+		{DE406A97-2EB0-4D03-A1BF-B30FAA641513}.Development|Default.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
